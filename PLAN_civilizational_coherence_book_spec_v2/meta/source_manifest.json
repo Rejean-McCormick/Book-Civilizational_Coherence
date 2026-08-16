@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-08-14T19:18:28.802969",
+  "book_title": "Civilizational Coherence",
+  "subtitle": "From Distributed Intelligence to Cumulative Collective Agency",
+  "sources": {
+    "master_outline": {
+      "file": "Outline book systeme v1.md",
+      "words": 189218,
+      "sha256": "1fa1fb0a1ed79114938b13bce34d1d875645c269f3bf1ccb1b82b4e52088dab8"
+    },
+    "introduction": {
+      "file": "Pasted markdown(20260814-190434).md",
+      "words": 9404,
+      "sha256": "17a663b8036adbf957cd39b01b38fdc9108d624d18fd747fdb264daa6cc4e464"
+    }
+  },
+  "generated_chapter_word_counts": {
+    "1": 3238,
+    "2": 3665,
+    "3": 3905,
+    "4": 4525,
+    "5": 4231,
+    "6": 4665,
+    "7": 5109,
+    "8": 6455,
+    "9": 5295,
+    "10": 5516,
+    "11": 6129,
+    "12": 6750,
+    "13": 6914,
+    "14": 6593,
+    "15": 8285,
+    "16": 9496,
+    "17": 8670,
+    "18": 8919,
+    "19": 9390,
+    "20": 9117,
+    "21": 11920,
+    "22": 10621,
+    "23": 11672,
+    "24": 12953,
+    "25": 17274
+  }
+}

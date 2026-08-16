@@ -1,0 +1,32 @@
+# Changelog — V1 → V2
+
+## Governance layer added
+- `core/00_CANONICAL_STATE.md`
+- `core/17_CANONICAL_INVARIANTS.md`
+- `core/18_DECISION_AND_IDEA_STATUS_REGISTRY.md`
+- `core/19_TRACEABILITY_MATRIX.md`
+- `core/20_CLAIM_LEDGER.md`
+- `core/21_RISK_REGISTER.md`
+
+## Structural normalization
+- Rebuilt all 25 chapter briefs manually into one stable schema.
+- Rebuilt all six part documents as part-level contracts.
+- Added a V2 authority note to every detailed chapter specification.
+- Updated the AI author manual with conflict-resolution, traceability and risk rules.
+- Updated the chapter-writing prompt with V2 control files.
+
+## Conceptual corrections
+- Explicit `DistributedIntelligence ⊂ DistributedPotential`.
+- Four project layers: `Theory ≠ Architecture ≠ Narrative ≠ Practice`.
+- Original public-good non-monetization constraint recorded as project-specific.
+- Newcomer-before-expert latent-competence mechanism marked experimental.
+- Seeded simulations require provenance; real people can later authenticate/correct/take control where permitted; changes of mind remain explicit.
+- De facto standard convergence classified as hypothesis rather than inevitability.
+- Blockchain-like credibility registry remains unresolved, not canonical.
+- Conclusion no longer collapses advice and authority.
+
+## What V2 intentionally does not do
+- It does not delete the detailed V1 research.
+- It does not rewrite the 25 chapters into manuscript prose.
+- It does not verify current software implementation.
+- It does not perform the external literature research needed for final publication.
