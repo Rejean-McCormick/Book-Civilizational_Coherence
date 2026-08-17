@@ -113,6 +113,18 @@ This recurs in interfaces, portability, pluralism, semantics, expert advice, fed
 
 Interoperability does not require uniformity.
 
+## Strong centers without terminal dependency
+
+The theory does not prescribe decentralization as an end in itself. A civilization may benefit from strong hubs that compress complexity, surface relevant capability and connect knowledge to action.
+
+The design question is not simply whether a system has a center, but **what the center centralizes and what remains independently contestable, executable, ownable and reproducible**.
+
+\[
+FunctionalCentrality\neq Domination
+\]
+
+A replicated or federated architecture may contain many strong centers. Polycentricity can therefore mean multiple centers with bounded domains, not the absence of centers.
+
 ## Cumulativity
 
 The book is not satisfied with successful action at time \(t\). The deeper question is whether action leaves behind more usable capacity.

@@ -14,7 +14,8 @@
 
 ## Coherence
 - [ ] Not consensus.
-- [ ] Not centralization.
+- [ ] Not confused with either centralization or decentralization as a topology.
+- [ ] Functional centrality is distinguished from domination, sovereignty and terminal dependency.
 - [ ] Not maximum connectivity.
 - [ ] Not homogeneity.
 - [ ] Not goodness.
@@ -106,3 +107,10 @@
 - [ ] Examples clearly not proof.
 - [ ] kOA follows functions.
 - [ ] Book invites scrutiny, not allegiance.
+
+## Centrality / articulation hub
+- [ ] Strong hub is represented as an intended design target where kOA is discussed.
+- [ ] Replication/federation are not misdescribed as rejection of centrality.
+- [ ] Polycentricity is compatible with multiple strong centers.
+- [ ] Search/social superiority claims remain hypotheses unless benchmarked.
+- [ ] Symbolic centrality is not converted into institutional sovereignty.

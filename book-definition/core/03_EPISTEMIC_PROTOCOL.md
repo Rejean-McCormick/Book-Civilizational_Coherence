@@ -181,3 +181,11 @@ Narrative claims about reality must resolve back into ordinary evidence.
 
 Read the book as:
 > a set of distinctions, mechanisms, design hypotheses and concrete architectures whose value depends on what survives comparison, implementation and empirical correction.
+
+## Centrality claims
+
+Treat claims such as "a unified articulation hub can surface more relevant capability than conventional search/social fragmentation" as **empirical hypotheses** until benchmarked.
+
+Treat `MaximumUsefulCentrality + MinimumTerminalDependency` as a **design principle**, not a scientific law.
+
+Treat Konnaxion/Kintsugi descriptions as implementation/documentation claims that still require code/test verification before being written as demonstrated performance.

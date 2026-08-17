@@ -16,7 +16,7 @@
 | Relevant information is unseen | attention routing | 14 | search/triage/Konnaxion/EkoH | routing quality; signal/noise | popularity/prestige captures agenda |
 | Expert advice becomes technocracy/theater | separate advice/authority | 15 | advisory channel, Smart Vote/ethiKos | advice→decision→outcome trace | automatic sovereignty or systematic ignoring |
 | Decisions do not execute | ownership + operational feedback | 16 | project systems, Orgo | decision-to-action latency | symbolic decisions/no ownership |
-| Scaling creates a new center | independent replication first | 17 | deployable instances/open good | independent operation | clone still depends on central operator |
+| Scaling creates terminal dependency on one center | replicate the coherent hub as a whole before federation | 17 | deployable hub instances/open good | independent operation after disconnection | clone still depends on original operator |
 | Sovereignty creates fragmentation | lineage + bridges | 18 | forks/versioning/bridges | comparability/recombination | incompatible permanent fragmentation |
 | Functions occur at wrong scale | multi-scale placement | 19 | polycentric/federal patterns | performance by scale | local overload or unnecessary center |
 | Connection exposes too much | selective permeability | 20 | scoped relations/aggregates | blast radius/privacy/continuity | total silo or uncontrolled propagation |
@@ -27,3 +27,5 @@
 | Theory protects itself | falsifiability | 25 | modular tests | claims can be rejected/narrowed | every result is confirmation |
 | Complex architecture is cognitively fragmented | legible coherence | 2,4,6,8,9,14,23 | diagrams/pedagogy/Surreal | comprehension/orientation/recall | fandom without mechanism understanding |
 | Founder/narrative becomes cultic | cultural contestability + founder non-dependence | 8,14,23,25 | anti-cult narrative/retheming/open replication | criticism + independent reproduction without founder permission | symbol becomes mandatory authority |
+| Internet capabilities are fragmented across search, social, knowledge and work tools | strong articulation hub + contextual surfacing | 2,4,14,16 | Konnaxion/Koali, Kintsugi, EkoH, Orgo | task-relevant discovery; cross-stage continuity | users still reconstruct context manually across silos |
+| Integrating mature tools recreates silos or dual truth | shared contracts + explicit Mimic/Annex boundaries | 4,8,17,19 | Kintsugi/Kompendio | replaceability; common identity/audit/artifact contracts | duplicated identities, records or incompatible workflows |

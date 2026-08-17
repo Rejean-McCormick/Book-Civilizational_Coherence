@@ -58,3 +58,13 @@ Its function remains:
 - situate kOA as laboratory, not proof.
 
 Do not try to demonstrate all 25 chapters in miniature.
+
+## 6. Centrality clarification
+
+The introduction may state that "centralized vs decentralized" is too crude. The current program explicitly permits a strong articulation hub.
+
+\[
+FunctionalCentrality \neq CentralizedSovereignty
+\]
+
+The question is not whether a center exists, but what it centralizes, what remains contestable or local, and whether the whole can be independently reproduced.

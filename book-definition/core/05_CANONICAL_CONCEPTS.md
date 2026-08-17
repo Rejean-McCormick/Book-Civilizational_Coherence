@@ -40,6 +40,27 @@ Ability of discovered capacities to work together under relevant technical, sema
 ## Interface
 Sociotechnical relation that converts between actors, capabilities, institutions, meanings or stages of collective action.
 
+## Functional centrality
+The degree to which discovery, navigation, routing, composition, legibility or shared services converge through a common center. Functional centrality can be high without giving that center final sovereignty over truth, institutions or politics.
+
+## Articulation hub
+A strong common interface that makes distributed capacities discoverable and composable across knowledge, people, groups, deliberation, decision, execution and memory. Its purpose is to compress fragmentation, not to own every underlying capability.
+
+## Terminal dependency
+A condition in which practical continuation depends on one center, operator or service to such a degree that failure, capture, refusal or disappearance of that center makes independent operation non-credible.
+
+## Recursive centrality
+An architecture in which a strong hub can be replicated as a whole, so each replica becomes a center at its own scale and may later federate with other centers.
+
+## Coordination spine
+The project term for a shared orchestration layer that links specialized modules into a coherent loop. Current Kintsugi documentation describes Konnaxion in this role.
+
+## Mimic
+Reimplement a useful external pattern natively when coherent UX, sovereignty, auditability or long-term control matter.
+
+## Annex
+Integrate a mature external capability as a replaceable sidecar/adapter while preserving ownership boundaries and avoiding dual truth.
+
 ## Selective coupling
 Creation of useful interfaces without maximizing all possible connections.
 

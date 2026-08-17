@@ -38,3 +38,13 @@
 - UCKK may remain its creator's educational/publication channel while its institutional pattern is intentionally replicable, rethemeable and usable by independent derivative institutions.
 - Updated Chapter 23 proof obligation and lower-authority detailed research stores to prevent reintroduction of the superseded framing.
 - Added live ecosystem source, implementation-status, open-good, rights/replication and source-ledger infrastructure at repository level.
+
+## 2026-08-17 — Centrality / articulation-hub correction
+
+- Replaced the coarse invariant `Coherence ≠ Centralization` with a topology-neutral distinction.
+- Added `Functional Centrality ≠ Domination` and `Central Hub ≠ Centralized Sovereignty`.
+- Canonized `MaximumUsefulCentrality + MinimumTerminalDependency` as a design heuristic.
+- Clarified that kOA/Konnaxion aims for a strong hub/coordination spine, while replication/federation protect against terminal dependency rather than eliminating centers.
+- Added recursive centrality: replicated hubs can each be strong centers.
+- Integrated Kintsugi/Kompendio as the Mimic/Annex under-one-roof integration model.
+- Classified Google/Facebook superiority comparisons as long-range empirical hypotheses, not facts.

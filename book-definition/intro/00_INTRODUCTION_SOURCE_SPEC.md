@@ -2089,14 +2089,22 @@ Il peut donc :
 
 # 110. The Central Question Is Not Centralization vs Decentralization
 
-Cette opposition est trop grossière.
+Cette opposition est trop grossière. Le programme peut rechercher un **centre fonctionnel très fort** sans vouloir concentrer toute souveraineté dans ce centre.
 
 Le livre demandera plutôt :
 
+- what is centralized for access, discovery and composition?
 - what is local?
 - what is shared?
 - what is portable?
 - what is authoritative?
+- what remains independently executable?
+- can the coherent hub itself be replicated?
+- when does useful centrality become terminal dependency or domination?
+
+\[
+FunctionalCentrality\neq CentralizedSovereignty
+\]
 
 ---
 

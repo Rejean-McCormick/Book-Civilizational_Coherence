@@ -35,15 +35,16 @@ V2 fixes that.
 4. `core/19_TRACEABILITY_MATRIX.md`
 5. `core/20_CLAIM_LEDGER.md`
 6. `core/21_RISK_REGISTER.md`
-7. `core/00_AI_AUTHOR_OPERATING_MANUAL.md`
-8. `core/01_BOOK_CHARTER.md`
-9. `core/02_EDITORIAL_CONTRACT.md`
-10. `core/03_EPISTEMIC_PROTOCOL.md`
-11. remaining `core/`
-12. relevant part contract
-13. normalized chapter brief
-14. detailed chapter research specification
-15. older source/project documents
+7. `core/22_CENTRALITY_AND_ARTICULATION_HUB.md`
+8. `core/00_AI_AUTHOR_OPERATING_MANUAL.md`
+9. `core/01_BOOK_CHARTER.md`
+10. `core/02_EDITORIAL_CONTRACT.md`
+11. `core/03_EPISTEMIC_PROTOCOL.md`
+12. remaining `core/`
+13. relevant part contract
+14. normalized chapter brief
+15. detailed chapter research specification
+16. older source/project documents
 
 **Length never determines authority.**
 
@@ -76,6 +77,7 @@ Load:
 - `core/19_TRACEABILITY_MATRIX.md`
 - `core/20_CLAIM_LEDGER.md`
 - `core/21_RISK_REGISTER.md`
+- `core/22_CENTRALITY_AND_ARTICULATION_HUB.md`
 - `core/00_AI_AUTHOR_OPERATING_MANUAL.md`
 - `core/01_BOOK_CHARTER.md`
 - `core/02_EDITORIAL_CONTRACT.md`
@@ -134,3 +136,7 @@ FutureCapacity
 The intellectual center remains in the arrows.
 
 V2 applies the book's own thesis to its documentation: the goal is not more stored information, but better conversion from stored knowledge into a coherent writing process.
+
+## Centrality clarification
+
+`core/22_CENTRALITY_AND_ARTICULATION_HUB.md` records the distinction between useful functional centrality, centralized sovereignty and terminal dependency. It governs lower-level readings that might otherwise mistake federation/local sovereignty for a preference for centerless architecture.

@@ -117,3 +117,32 @@ Prefer:
 \[FewStrongPatterns \rightarrow ManyCompositions\]
 
 rather than duplicated mechanisms.
+
+---
+
+## P21 — Articulate Many Capabilities Through One Hub
+
+**Problem:** users reconstruct context across search, social, knowledge, governance and work tools.
+
+\[
+FragmentedCapabilities \rightarrow ArticulationHub \rightarrow CoherentJourney
+\]
+
+**Possible implementation example:** Konnaxion/Koali as a common hub.
+
+**Risks:** attention monopoly, terminal dependency, hidden defaults, monolithic coupling.
+
+---
+
+## P22 — Integrate External Capability by Mimic or Annex
+
+**Problem:** adding mature external functionality either duplicates effort or creates a new silo.
+
+\[
+ExternalCapability \rightarrow MimicOrAnnex \rightarrow SharedContracts
+\]
+
+**Possible implementation example:** Kintsugi + Kompendio.
+
+**Risks:** dual truth, license incompatibility, hidden dependency, adapter drift.
+

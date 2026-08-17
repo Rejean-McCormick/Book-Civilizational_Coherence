@@ -12,7 +12,7 @@ Make one question difficult to forget:
 - the gap is not explained by one missing variable;
 - losses and interfaces matter;
 - civilizational coherence names a system-level capacity of composition;
-- coherence is not consensus, centralization, connectivity or goodness;
+- coherence is not consensus, decentralization, connectivity or goodness; functional centrality must be distinguished from centralized sovereignty and terminal dependency;
 - the book follows the path from knowledge to action to learning;
 - kOA is a laboratory, not premise or proof;
 - formulas have explicit epistemic status;

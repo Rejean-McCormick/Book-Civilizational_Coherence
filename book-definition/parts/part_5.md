@@ -4,15 +4,15 @@
 A local institution can in principle know, judge, decide and execute.
 
 ## Transformation owned by this part
-Show how architecture replicates, diverges, works across scales, exchanges selectively and remains locally operable.
+Show how a strong coherent hub can be replicated as a whole, diverge, operate as a center at multiple scales, exchange selectively with other centers and remain locally operable.
 
 ## Canonical part chain
-**Replication → Divergence → MultiScale → SelectivePermeability → LocalSovereignty**
+**StrongHub → Replication → Divergence → RecursiveMultiScale → SelectivePermeability → LocalSovereignty**
 
 **Status:** conceptual reading order, not a mandatory literal workflow.
 
 ## Exit state
-The reader has a resilient polycentric architecture and asks whether action becomes future capability.
+The reader has a resilient polycentric architecture of multiple strong, bounded centers and asks whether action becomes future capability.
 
 ## Chapters
 - **Chapter 17 — Replication Before Federation**

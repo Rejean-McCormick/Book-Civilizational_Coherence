@@ -42,3 +42,8 @@
 | C38 | The Surreal can function as adversarial simulation | PROJECT-SPECIFIC DESIGN HYPOTHESIS | 8,14,23 | design issues discovered |
 | C39 | Founder decentering and non-dependence support distributed mastery | DESIGN/NORMATIVE PRINCIPLE | 8,23,25 | independent-reproduction / retheming tests |
 | C40 | kOA is one implementation attempt and may be inferior to alternatives | CANONICAL EPISTEMIC STANCE | all | removal/comparison test |
+| C41 | Functional centrality can increase coherence without implying centralized sovereignty | CANONICAL/DESIGN CLAIM | 2,4,8,19 | conceptual distinction + comparative cases |
+| C42 | A strong articulation hub can reduce discovery/routing loss by surfacing context-relevant content, people, groups and actions | EMPIRICAL/DESIGN HYPOTHESIS | 4,14,16 | benchmark against fragmented workflows/search/social tools |
+| C43 | Replicating a coherent hub as a whole can preserve strong local centrality while reducing terminal dependency on the original center | DESIGN/EMPIRICAL HYPOTHESIS | 17–20 | disconnect, migration and independent-operation tests |
+| C44 | Kintsugi-style Mimic/Annex integration can reduce silo duplication while preserving ownership and replaceability boundaries | CURRENT INTENDED ARCHITECTURE / TESTABLE DESIGN CLAIM | 4,8,17,19 | integration tests; dual-truth/replaceability audits |
+| C45 | An Internet-scale articulation layer may outperform destination-oriented search/social fragmentation for task-relevant surfacing and continuity from knowledge to action | LONG-RANGE EMPIRICAL HYPOTHESIS | 4,14,16,19 | comparative user/task benchmarks |

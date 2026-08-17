@@ -4,6 +4,8 @@
 The introduction has established the coordination paradox but not the mechanism.
 
 ## Transformation owned by this part
+Clarify that coherence is compatible with a **strong articulation hub**: the issue is composition and dependency, not a blanket preference for centerless topology.
+
 Move from distributed capacity to a precise account of coherence, loss and interfaces.
 
 ## Canonical part chain

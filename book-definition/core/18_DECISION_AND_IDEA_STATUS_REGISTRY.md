@@ -18,7 +18,11 @@
 | Item | Status | Interpretation |
 |---|---|---|
 | Civilizational coherence as capacity of composition | CANONICAL THEORY | Central concept |
-| Coherence ≠ consensus/centralization/uniformity/goodness | CANONICAL THEORY | Non-negotiable |
+| Coherence ≠ consensus/decentralization/uniformity/goodness | CANONICAL THEORY | Coherence does not prescribe a centerless topology |
+| Functional centrality ≠ domination | CANONICAL THEORY | A strong hub can increase composition without owning truth or sovereignty |
+| Maximum useful centrality + minimum terminal dependency | ACCEPTED DESIGN PRINCIPLE | Centralize articulation while preserving credible continuation/replacement |
+| Strong articulation hub as normal kOA form | CURRENT INTENDED ARCHITECTURE | Central user/system hub; verify implementation scope |
+| Recursive centrality / replicated hubs | ACCEPTED DESIGN PRINCIPLE | Whole hubs may be copied; each copy can be a strong center |
 | \(A_t=P_t-L_t\) | CANONICAL THEORY | Conceptual model, not calibrated measurement |
 | Interface-centered analysis | CANONICAL THEORY | Conditional: especially when nodes are not main bottleneck |
 | Composition without absorption | ACCEPTED DESIGN PRINCIPLE | Recurrent |
@@ -41,6 +45,10 @@
 | AI-assisted construction/testing | CURRENT INTENDED ARCHITECTURE | Compatible with AI-independent operation |
 | Optional external AI adapters | ACCEPTED DESIGN PRINCIPLE | AI output not canonical by default |
 | Orgo decision→execution | CURRENT INTENDED ARCHITECTURE | External execution remains possible |
+| Konnaxion as coordination spine/public shell | CURRENT INTENDED ARCHITECTURE | Links learning, building, governance and coordination into one coherent loop |
+| Kintsugi open-source-under-one-roof integration | CURRENT INTENDED ARCHITECTURE / DESIGN PRINCIPLE | Shared contracts; Mimic or Annex instead of silo duplication |
+| Kompendio integration repertory | CURRENT INTENDED ARCHITECTURE / DOCUMENTATION PATTERN | Makes dependencies and Mimic/Annex choices explicit |
+| Internet-scale articulation hub | LONG-RANGE DESIGN AMBITION / EMPIRICAL HYPOTHESIS | May surface task-relevant content/people/groups/actions better than fragmented destination search/social workflows; not demonstrated |
 | UCKK mastery reproduction | CURRENT INTENDED ARCHITECTURE | Not universal governance |
 | UCKK original as creator-owned channel | ACCEPTED PROJECT CONFIGURATION | Does not imply derivative dependence |
 | Independent UCKK/Univers-City derivatives | ACCEPTED DESIGN PRINCIPLE | Replication/retheming encouraged; derivatives may be sovereign |

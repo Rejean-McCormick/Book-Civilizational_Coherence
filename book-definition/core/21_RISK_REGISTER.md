@@ -31,3 +31,8 @@
 | Measurement becomes target | governance | metrics distort behavior | multiple indicators/audits | 24 | gaming rises |
 | Theory becomes unfalsifiable | epistemic | project protects itself | modular claims/failure criteria | 25 | every outcome confirms |
 | kOA branding swallows theory | editorial | book becomes pitch | removal test/function-first naming | all | chapter collapses without brand |
+| Hub gravity becomes attention monopoly | power/attention | central surfacing can invisibly shape reality | transparent routing, alternate views, contestation, export/alternative hubs | 8,14,19 | most discovery flows through opaque defaults |
+| Strong hub becomes terminal dependency | architecture/power | useful centrality turns into single point of capture/failure | whole-hub replication, local operation, replaceability, credible alternatives | 8,17–21 | independent instance cannot continue after hub loss |
+| Integration under one roof becomes monolith | architecture | Kintsugi coherence destroys module boundaries | Mimic/Annex contracts, explicit ownership, adapters, tests | 4,8,17,19 | dual truth, inseparable modules, upgrade blast radius |
+| Symbolic center becomes sovereign figure | narrative/power | legibility becomes cult/obedience | symbol≠authority, critique, retheming, procedural governance | 8,14,23 | loyalty to symbol overrides evidence/rules |
+| Unified surfacing claim outruns benchmarks | epistemic/product | ambition stated as proven superiority | comparative task tests, explicit hypothesis labels | 4,14,24–25 | "better than Google/Facebook" asserted without data |

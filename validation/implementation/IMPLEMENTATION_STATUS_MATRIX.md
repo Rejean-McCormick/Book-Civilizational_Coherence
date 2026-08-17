@@ -39,6 +39,12 @@ This file tracks what CivCohe is allowed to say about the implementation example
 | Global UNESCO Univers-City / KristALL | future institutional configuration | not applicable | "hypothetical/possible institutional configuration" |
 | SOS crisis orchestration | target architecture scenario | not implemented/validated end-to-end | "scenario/stress test only" |
 
+| Konnaxion as coordination spine / coherent public shell | documented-current-design | Kintsugi/Kompendio source corpus; code/integration audit pending | "documented coordination-spine target" |
+| Kintsugi shared-contract under-one-roof integration | documented-current-design / partial by module | verify each Annex/Mimic lane | "current integration architecture; exact implementation varies" |
+| Internet-scale articulation hub | long-range design ambition | not validated end-to-end | "long-range target" |
+| Better task surfacing than Google Search | empirical hypothesis | no benchmark supplied | "hypothesis only" |
+| Better group-to-action continuity than Facebook groups | empirical hypothesis | no benchmark supplied | "hypothesis only" |
+
 ## Test record template
 
 ```yaml

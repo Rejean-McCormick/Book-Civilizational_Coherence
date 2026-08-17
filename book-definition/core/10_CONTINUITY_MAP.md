@@ -27,8 +27,8 @@ The 25 chapters are a progressive derivation of one problem, not 25 topics.
 16. Legitimate decisions still do not execute themselves.
 
 ## Part V — composition without absorption
-17. Independent replication should precede optional federation.
-18. Sovereignty requires ability to diverge; divergence needs lineage/bridges.
+17. A strong coherent hub should be independently replicable as a whole before optional federation.
+18. Replicated hubs may diverge; sovereignty requires lineage, bridges and the ability to evolve without erasing common origin.
 19. Information, authority and execution can live at different scales.
 20. Boundaries must permit selective exchange rather than total openness/isolation.
 21. Local canonical operation should survive loss of network or AI where those dependencies are not intrinsic.

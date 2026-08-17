@@ -144,7 +144,7 @@ A thought experiment is not empirical validation.
 
 ## 10. Implementation humility
 
-The current intended kOA architecture is described as modular, locally operable, optionally federated, deterministic in canonical runtime, AI-optional, forkable and compatible with offline operation.
+The current intended kOA architecture is described as a **strong coherent articulation hub / coordination spine** composed from modular capabilities, while also being locally operable, replicable as a whole, optionally federated, deterministic in canonical runtime where specified, AI-optional, forkable and compatible with offline operation. Do not infer from local sovereignty or federation that the desired normal form is centerless.
 
 Unless verified from current technical documentation, describe these as intended/final properties or design targets, not demonstrated operational facts.
 
@@ -259,3 +259,7 @@ If no such path exists, the implementation may be insufficiently motivated for t
 ## V2 risk rule
 
 Before finalizing a chapter, inspect relevant rows of `core/21_RISK_REGISTER.md`.
+
+### Centrality guardrail
+
+Never write "decentralized = coherent" or "centralized = incoherent." Ask what is centralized. The current project intentionally centralizes discovery, access, navigation and composition through a hub while attempting to keep truth, expertise, local execution, derivative institutions and continuation contestable or independently reproducible.

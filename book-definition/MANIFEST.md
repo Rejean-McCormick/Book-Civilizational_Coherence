@@ -120,3 +120,5 @@ Total Markdown words: **230,281**
 
 - `series/00_COMPANION_BOOK_STRATEGY.md` — 220 words
 
+## V2.1 centrality clarification
+- `core/22_CENTRALITY_AND_ARTICULATION_HUB.md` — strong articulation hub, recursive centrality, terminal-dependency distinction.

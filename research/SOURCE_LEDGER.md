@@ -44,6 +44,7 @@ Do not reuse the `C01–C40` namespace from the Book Claim Ledger; source IDs ha
 | E0010 | VotingMachine repository/docs/wiki | historical/experimental implementation | yes | voting lineage | not audited/currentness must be checked |
 | E0011 | UCKK Canon supplied corpus | institutional canon | no stable live URL recorded | mastery reproduction/institution model | reviewed conceptually |
 | E0012 | UCKK-Moodle supplied corpus | implementation documentation | no stable live URL recorded | educational operations | reviewed conceptually; code audit pending |
+| E0013 | Kintsugi/Kompendio supplied corpus | architecture/integration documentation | no stable live URL recorded | Konnaxion coordination spine, Mimic/Annex integration, ownership boundaries | reviewed conceptually; implementation audit pending |
 
 ## Source record template
 

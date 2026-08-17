@@ -57,7 +57,15 @@ Coherence \neq Consensus
 \]
 
 \[
-Coherence \neq Centralization
+Coherence \neq Decentralization
+\]
+
+\[
+FunctionalCentrality \neq Domination
+\]
+
+\[
+CentralHub \neq CentralizedSovereignty
 \]
 
 \[
@@ -120,6 +128,31 @@ ArchitectureRevision
 
 These are conceptual maps, not empirical laws.
 
+## 5A. Centrality and articulation stance
+
+Civilizational coherence does **not** require the absence of a center. The current theory explicitly allows — and the kOA laboratory intentionally seeks — a strong **articulation hub** that makes distributed capacities easier to discover, interpret, combine and route.
+
+Separate:
+
+- functional centrality;
+- centralization of control;
+- centralization of sovereignty;
+- terminal dependency.
+
+\[
+MaximumUsefulCentrality + MinimumTerminalDependency
+\]
+
+**Status:** design heuristic, not a calibrated objective function.
+
+A strong hub may centralize access, navigation, contextual surfacing, composition and legibility while expertise, execution, ownership and legitimate authority remain distributed or scale-specific.
+
+\[
+StrongHub + DistributedCapability + LocalExecution + ContestableAuthority + ReplicableWhole
+\]
+
+Replication means a complete coherent hub can be reproduced and become another center. Federation may then connect strong centers to strong centers. Polycentricity therefore does not imply weak or centerless institutions.
+
 ## 6. kOA status
 
 **Status:** concrete architectural laboratory / implementation family.
@@ -140,6 +173,8 @@ If another architecture satisfies the derived requirements better, the intellect
 
 Unless current implementation evidence establishes otherwise, describe these as **CURRENT INTENDED ARCHITECTURE / DESIGN TARGET**, not verified fact:
 
+- a strong coherent hub / coordination spine as the normal user-facing articulation point;
+- Kintsugi-style integration of selected capabilities under shared contracts rather than silo duplication;
 - local core operation;
 - optional federation;
 - portable/forkable knowledge artifacts;
@@ -387,7 +422,7 @@ The theory must be able to fail.
 Possible failure:
 - adoption rises but quality/reuse/outcomes do not;
 - coordination costs exceed gains;
-- centralization/domination grows;
+- functional centrality turns into opaque domination or terminal dependency;
 - expert participation does not materialize;
 - portability is nominal rather than practical;
 - social recovery after capture is too slow;
@@ -407,15 +442,16 @@ When documents conflict:
 4. `core/19_TRACEABILITY_MATRIX.md`
 5. `core/20_CLAIM_LEDGER.md`
 6. `core/21_RISK_REGISTER.md`
-7. `core/00_AI_AUTHOR_OPERATING_MANUAL.md`
-8. `core/01_BOOK_CHARTER.md`
-9. `core/02_EDITORIAL_CONTRACT.md`
-10. `core/03_EPISTEMIC_PROTOCOL.md`
-11. other `core/` files
-12. relevant part contract
-13. normalized chapter brief
-14. detailed chapter specification
-15. older source/project documents
+7. `core/22_CENTRALITY_AND_ARTICULATION_HUB.md`
+8. `core/00_AI_AUTHOR_OPERATING_MANUAL.md`
+9. `core/01_BOOK_CHARTER.md`
+10. `core/02_EDITORIAL_CONTRACT.md`
+11. `core/03_EPISTEMIC_PROTOCOL.md`
+12. other `core/` files
+13. relevant part contract
+14. normalized chapter brief
+15. detailed chapter specification
+16. older source/project documents
 
 **Length never determines authority.**
 

@@ -100,15 +100,16 @@ When documents conflict, the current authority order for the book is:
 4. `core/19_TRACEABILITY_MATRIX.md`
 5. `core/20_CLAIM_LEDGER.md`
 6. `core/21_RISK_REGISTER.md`
-7. `core/00_AI_AUTHOR_OPERATING_MANUAL.md`
-8. `core/01_BOOK_CHARTER.md`
-9. `core/02_EDITORIAL_CONTRACT.md`
-10. `core/03_EPISTEMIC_PROTOCOL.md`
-11. other `core/` documents
-12. relevant Part contract
-13. normalized Chapter Brief
-14. detailed Chapter Specification
-15. older working and source material
+7. `core/22_CENTRALITY_AND_ARTICULATION_HUB.md`
+8. `core/00_AI_AUTHOR_OPERATING_MANUAL.md`
+9. `core/01_BOOK_CHARTER.md`
+10. `core/02_EDITORIAL_CONTRACT.md`
+11. `core/03_EPISTEMIC_PROTOCOL.md`
+12. other `core/` documents
+13. relevant Part contract
+14. normalized Chapter Brief
+15. detailed Chapter Specification
+16. older working and source material
 
 **Length never determines authority.**
 
@@ -227,7 +228,10 @@ Among them:
 
 ```text
 Coherence ≠ Consensus
-Coherence ≠ Centralization
+Coherence ≠ Decentralization
+Functional Centrality ≠ Domination
+Central Hub ≠ Centralized Sovereignty
+Central Hub ≠ Irreplaceable Central Dependency
 Coherence ≠ Maximum Connectivity
 Coherence ≠ Homogeneity
 Coherence ≠ Goodness
@@ -272,6 +276,38 @@ The full registry is maintained in:
 
 ```text
 core/17_CANONICAL_INVARIANTS.md
+```
+
+---
+
+# Centrality and the Articulation Hub
+
+The current architecture should not be described as fundamentally centerless.
+
+Its target is a **strong common hub** capable of articulating distributed knowledge, people, groups, deliberation, decisions, work and memory through one coherent environment.
+
+\[
+MaximumUsefulCentrality + MinimumTerminalDependency
+\]
+
+This means centralizing useful functions such as access, navigation, contextual surfacing and composition while preserving contestability, local execution, independent replication and alternative centers.
+
+\[
+StrongHub + DistributedCapability + ReplicableWhole
+\]
+
+Replication means that another complete hub can exist — not that the original hub must be broken into fragments.
+
+The long-range ambition is an Internet articulation layer that can surface not only a relevant page or conversation, but the relevant **content, source, person, expertise, group, decision, task, project or memory** for the user's context. Comparisons to Google Search, Facebook groups or other established services remain **design ambitions / empirical hypotheses** until benchmarked.
+
+Kintsugi supports this direction by integrating selected open-source capabilities "under one roof" through shared contracts, using explicit **Mimic** or **Annex** choices rather than recreating silos.
+
+See:
+
+```text
+book-definition/core/22_CENTRALITY_AND_ARTICULATION_HUB.md
+architecture/CENTRALITY_AND_ARTICULATION_HUB.md
+architecture/KINTSUGI_ARTICULATION_MODEL.md
 ```
 
 ---
@@ -591,6 +627,7 @@ core/18_DECISION_AND_IDEA_STATUS_REGISTRY.md
 core/19_TRACEABILITY_MATRIX.md
 core/20_CLAIM_LEDGER.md
 core/21_RISK_REGISTER.md
+core/22_CENTRALITY_AND_ARTICULATION_HUB.md
 core/00_AI_AUTHOR_OPERATING_MANUAL.md
 core/01_BOOK_CHARTER.md
 core/02_EDITORIAL_CONTRACT.md

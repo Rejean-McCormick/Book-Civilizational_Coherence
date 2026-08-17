@@ -11,8 +11,10 @@ This file is a **boundary map**, not a claim that every component is complete.
 
 | Component | Primary responsibility | Does not own / must not be confused with |
 |---|---|---|
-| Koali / kOA-Linux | local operating environment, integration surface, sovereignty/offline target | all knowledge, all governance, universal authority |
-| Konnaxion | coordination, contribution, collaboration, governance/intelligence fabric | Kristal content ownership; sovereign political authority |
+| Koali / kOA-Linux | local operating environment and high-level integration/hub surface; sovereignty/offline target | all knowledge, all governance, universal authority |
+| Konnaxion | coordination spine/public shell linking learning, building, contribution and governance into a coherent loop | Kristal content ownership; sovereign political authority; monolithic ownership of every module |
+| Kintsugi | open-source-under-one-roof integration layer; shared contracts; Mimic/Annex orchestration | license laundering; dual truth; uncontrolled merger of external tools into canonical ownership |
+| Kompendio | versioned reference and integration map for dependencies, standards and Mimic/Annex choices | runtime authority; automatic implementation status |
 | EkoH | contextual competence/credibility signals and attestations | universal merit rank; moral caste; political sovereignty |
 | Smart Vote | multiple transparent readings/lenses over collective signals | truth; one hidden canonical weighting; automatic decision authority |
 | ethiKos | structured deliberation for subjective, ethical and political questions | objective truth oracle; automatic sovereignty |
@@ -55,6 +57,14 @@ CreatorOwnedChannel \neq MandatoryDependency
 
 \[
 IndependentReproducibility \neq FounderRemoval
+\]
+
+\[
+FunctionalCentrality \neq Domination
+\]
+
+\[
+OneCoherentSurface \neq OneMonolithicCodebase
 \]
 
 ## Use in the book

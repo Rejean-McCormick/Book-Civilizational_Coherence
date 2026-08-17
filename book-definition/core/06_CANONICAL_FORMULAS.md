@@ -207,7 +207,15 @@ Coherence \neq Consensus
 \]
 
 \[
-Coherence \neq Centralization
+Coherence \neq Decentralization
+\]
+
+\[
+FunctionalCentrality \neq Domination
+\]
+
+\[
+CentralHub \neq CentralizedSovereignty
 \]
 
 \[
@@ -287,3 +295,16 @@ Use only if:
 3. prose is not clearer;
 4. status is explicit;
 5. it will not be mistaken for calibrated science.
+
+## Design heuristic — useful centrality
+
+\[
+MaximumUsefulCentrality + MinimumTerminalDependency
+\]
+
+**Literal translation:** maximize the useful centralization of access, navigation, discovery and composition while minimizing dependence on one irreplaceable center.
+
+**Meaning:** the project intentionally seeks a strong articulation hub, but does not want that hub to become the only possible source of truth, authority or continuation.
+
+**Status:** recurrent design heuristic; not a calibrated optimization equation and not necessarily one of the manuscript's headline formulas.
+

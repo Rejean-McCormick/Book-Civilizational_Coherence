@@ -222,3 +222,11 @@ The book is strongest when it says:
 - why the mechanism matters;
 - what tradeoff it creates;
 - what would make us change our minds.
+
+## Centrality writing rule
+
+Do not use "centralization" as a generic synonym for domination. Distinguish functional centrality, concentration of operational control, concentration of sovereignty and terminal dependency.
+
+The kOA laboratory currently targets a strong articulation hub. Replication, local operation and federation are counterpowers and scaling mechanisms around that hub, not evidence that the desired normal form is centerless.
+
+Comparative superiority over search engines, social networks or collaboration suites must remain a **design ambition or empirical hypothesis** unless benchmark evidence exists.

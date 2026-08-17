@@ -73,3 +73,14 @@
 The pack now functions as a governed writing system rather than only a large knowledge base.
 
 The principal remaining uncertainties are empirical and implementation-level, not structural documentation defects.
+
+## V2.1 Centrality Amendment Validation — 2026-08-17
+
+Validated after starting from `Civilisational_Coherence(4).zip`:
+
+- canonical state distinguishes functional centrality, sovereignty and terminal dependency;
+- normalized briefs for Chapters 2, 4, 8, 14, 17, 19 and 20 aligned;
+- detailed research stores carry current-centrality alignment notes;
+- Kintsugi/Kompendio source synthesis added without claiming implementation completeness;
+- search/social superiority remains hypothesis/ambition;
+- strong-hub replication and recursive centrality propagated into Part V.

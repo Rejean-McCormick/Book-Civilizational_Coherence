@@ -82,3 +82,13 @@ A scenario may exercise intended components, but:
 \[
 ScenarioCoverage \neq ImplementationVerification
 \]
+
+## Comparative product claims
+
+Claims that the articulation hub is "better than Google" for surfacing or "better than Facebook" for groups must not be inferred from architecture documentation. Until benchmarked they are:
+
+```text
+LONG-RANGE DESIGN AMBITION / EMPIRICAL HYPOTHESIS
+```
+
+A benchmark should specify the user task, context retained, relevance metric, time-to-capability, continuity into action and baseline system.

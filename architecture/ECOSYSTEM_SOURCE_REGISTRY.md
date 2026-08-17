@@ -81,3 +81,17 @@ A repository description, README, wiki page, architecture document and passing e
 \[
 Documented \neq Implemented \neq Tested \neq Validated
 \]
+
+## Supplied Kintsugi / Kompendio source corpus
+
+The project has also supplied `Kintsugi_Kompendio.zip`. No public live repository URL is assumed unless separately verified.
+
+Primary CivCohe-relevant documents include:
+
+- `Konnaxion-kintsugi-and-kompendio-open-source-integration-map-v1.md` — Konnaxion as coordination spine; Kintsugi under-one-roof layer; Kompendio integration map.
+- `ethiKos-kintsugi-boundaries-and-articulation-v2.txt` — ownership boundaries, pipeline, Smart Vote/EkoH articulation and Mimic/Annex adapters.
+- `ethiKos_Kintsugi_Update/03_BOUNDARIES_AND_OWNERSHIP_CONTRACTS.md` — ownership boundaries.
+- `ethiKos_Kintsugi_Update/11_MIMIC_VS_ANNEX_RULEBOOK.md` — integration decision rules.
+- `ethiKos_Kintsugi_Update/16_TEST_AND_SMOKE_CONTRACT.md` — verification material.
+
+Treat these as **supplied architecture sources** until mapped to a live repository and reviewed commit.

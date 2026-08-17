@@ -5,13 +5,33 @@ These distinctions are the conceptual constitution of the current book.
 ## Coherence
 
 - Coherence ≠ Consensus
-- Coherence ≠ Centralization
+- Coherence ≠ Decentralization
+- Coherence ≠ Centralization Of Sovereignty
+- Functional Centrality ≠ Domination
+- Central Hub ≠ Irreplaceable Central Dependency
 - Coherence ≠ Maximum Connectivity
 - Coherence ≠ Homogeneity
 - Coherence ≠ Goodness
 - More Coordination ≠ More Coherence
 - Structural Coherence ≠ Legible Coherence
 - Narrative Coherence ≠ Structural Coherence
+
+## Centrality and hubs
+
+- Strong Center ≠ Total Sovereignty
+- Centralized Access ≠ Centralized Truth
+- Centralized Navigation ≠ Centralized Political Authority
+- Common Hub ≠ Single Mandatory Worldview
+- Replication ≠ Rejection Of Centrality
+- Polycentricity ≠ Centerlessness
+- Federation ≠ Flatness
+- Local Sovereignty ≠ Absence Of Local Center
+- Symbolic Centrality ≠ Institutional Sovereignty
+- One Coherent User Surface ≠ One Monolithic Codebase
+- Integration ≠ Merger Of Ownership
+- Mimic ≠ Annex
+- Search Relevance ≠ Task Relevance
+- Popularity ≠ Contextual Surfacing
 
 ## Capacity and agency
 
