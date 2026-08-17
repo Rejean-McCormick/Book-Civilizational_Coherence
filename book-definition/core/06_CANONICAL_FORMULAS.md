@@ -219,6 +219,14 @@ CentralHub \neq CentralizedSovereignty
 \]
 
 \[
+RelationalCentrality \neq SovereignCentrality
+\]
+
+\[
+CenterOfCommunion \neq CenterOfDomination
+\]
+
+\[
 Coherence \neq MaximumConnectivity
 \]
 
@@ -307,4 +315,3 @@ MaximumUsefulCentrality + MinimumTerminalDependency
 **Meaning:** the project intentionally seeks a strong articulation hub, but does not want that hub to become the only possible source of truth, authority or continuation.
 
 **Status:** recurrent design heuristic; not a calibrated optimization equation and not necessarily one of the manuscript's headline formulas.
-

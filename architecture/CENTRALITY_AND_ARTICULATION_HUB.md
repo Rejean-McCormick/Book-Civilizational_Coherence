@@ -75,3 +75,32 @@ IMPLEMENTED
 TESTED
 BENCHMARKED
 ```
+
+## Relational center: centrality by connection, not command
+
+The hub's centrality is not valuable merely because traffic passes through it. The stronger design claim is that the hub should increase **useful relations among otherwise distributed capabilities**.
+
+\[
+RelationalCentrality \neq SovereignCentrality
+\]
+
+A center is functioning well when it makes it easier for:
+
+- a person to find the relevant knowledge;
+- knowledge to find the relevant expert;
+- an expert to find the relevant group or institution;
+- a decision to find capable executors;
+- outcomes to return to memory and learning;
+- separate projects to discover that they share a reusable primitive.
+
+This gives the hub a potentially unifying function extending from technical routing to public legibility.
+
+### Symbolic parallel
+
+A shared symbol can perform an analogous legibility function by giving participants a common reference point. The Christian image of Christ may be discussed as an **interpretive analogy** around sharing, service, communion and common belonging, never as theological validation or an identity claim about the founder/system.
+
+\[
+CenterOfCommunion \neq CenterOfDomination
+\]
+
+The principle must remain valid with another symbol or no symbol at all.

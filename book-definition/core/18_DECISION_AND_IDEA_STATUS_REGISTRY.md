@@ -12,6 +12,8 @@
 - **PROPOSED METRIC** — measurement candidate.
 - **HISTORICAL / PRIOR ITERATION** — superseded or older design state.
 - **UNRESOLVED** — open question.
+- **INTERPRETIVE ANALOGY** — explanatory comparison; not evidence, identity, endorsement or theological/historical exhaustiveness.
+- **AUTHOR-REPORTED PROJECT METHOD** — description of how the project was developed; requires no inference of external validity.
 
 ## Registry
 
@@ -23,6 +25,10 @@
 | Maximum useful centrality + minimum terminal dependency | ACCEPTED DESIGN PRINCIPLE | Centralize articulation while preserving credible continuation/replacement |
 | Strong articulation hub as normal kOA form | CURRENT INTENDED ARCHITECTURE | Central user/system hub; verify implementation scope |
 | Recursive centrality / replicated hubs | ACCEPTED DESIGN PRINCIPLE | Whole hubs may be copied; each copy can be a strong center |
+| Relational centrality / center of communion | CANONICAL THEORY / CONCEPTUAL FRAME | A center may increase relations among parts without acquiring sovereignty over them |
+| Christ as analogy for symbolic communion | INTERPRETIVE ANALOGY | May illustrate sharing, communion, service and a common relational symbol; not a theological claim, not founder identification, not evidence |
+| Cross-domain extraction of common primitives | AUTHOR-REPORTED PROJECT METHOD / ACCEPTED DESIGN DISCIPLINE | Prefer shared core where mechanisms are genuinely common; preserve domain-specific constraints |
+| Human–AI recursive architecture/documentation loop | AUTHOR-REPORTED PROJECT METHOD | AI-assisted exploration and synthesis under human project judgment; not validation |
 | \(A_t=P_t-L_t\) | CANONICAL THEORY | Conceptual model, not calibrated measurement |
 | Interface-centered analysis | CANONICAL THEORY | Conditional: especially when nodes are not main bottleneck |
 | Composition without absorption | ACCEPTED DESIGN PRINCIPLE | Recurrent |

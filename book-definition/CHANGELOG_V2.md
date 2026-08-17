@@ -48,3 +48,12 @@
 - Added recursive centrality: replicated hubs can each be strong centers.
 - Integrated Kintsugi/Kompendio as the Mimic/Annex under-one-roof integration model.
 - Classified Google/Facebook superiority comparisons as long-range empirical hypotheses, not facts.
+
+## 2026-08-17 — Relational centrality and architectural genesis integration
+
+- added `RelationalCentrality ≠ SovereignCentrality` and `CenterOfCommunion ≠ CenterOfDomination`;
+- bounded Christ references as `INTERPRETIVE ANALOGY`, never theological validation or founder identity;
+- documented cross-domain primitive extraction and the human–AI documentation/architecture feedback loop as `AUTHOR-REPORTED PROJECT METHOD`;
+- added explicit guardrails against over-generalization, AI self-confirmation and domain erasure;
+- linked the scenario library to conceptual regression testing of reusable patterns;
+- updated claims, risks, traceability, relevant chapter briefs and writing controls.

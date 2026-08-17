@@ -258,3 +258,33 @@ Narratively and culturally supported ability to recognize a deviation from share
 
 ## The Surreal
 A particular project method: move from real problems into fictional/surreal representation and back toward an expanded sense of possible action. It is an implementation of narrative mediation, not a universal requirement of civilizational coherence.
+
+## Relational centrality
+
+**Definition:** the degree to which a shared center increases useful relations, mutual discoverability and composition among otherwise distributed actors/capabilities without thereby acquiring sovereignty over them.
+
+\[
+RelationalCentrality \neq SovereignCentrality
+\]
+
+**Status:** conceptual frame / empirical research direction.
+
+## Center of communion
+
+**Definition:** a relational metaphor for a center around which distinct participants can share orientation, resources, meaning or cooperation while remaining distinct. It contrasts with a center whose primary function is command or domination.
+
+\[
+CenterOfCommunion \neq CenterOfDomination
+\]
+
+**Status:** conceptual metaphor. Religious examples may illustrate it but are not required by it.
+
+## Architectural generalization
+
+**Definition:** extraction of genuinely shared functional primitives across domains so they can be reused through a common core while preserving irreducible domain-specific constraints.
+
+\[
+Generalization \neq ForcedUniformity
+\]
+
+**Status:** accepted project design discipline / testable architectural hypothesis.

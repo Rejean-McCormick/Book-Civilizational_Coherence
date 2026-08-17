@@ -169,6 +169,50 @@ CreatorChannel + IndependentlyReplicableModel
 
 The success condition is reduced dependency, not mandatory dispossession of the creator.
 
+
+
+## Relational Centrality
+
+The strong hub is not intended to be valuable merely because everything passes through it. Its higher-order function is to increase useful relations among distributed capabilities.
+
+\[
+RelationalCentrality \neq SovereignCentrality
+\]
+
+\[
+CenterOfCommunion \neq CenterOfDomination
+\]
+
+Here *communion* means participation in something shared while participants remain distinct. Religious symbolism may be used as analogy, but no religious belief or symbol is required by the architecture.
+
+## Architectural Genesis and Generalization
+
+The project was developed through repeated cross-domain comparison, extraction of common functional primitives, recombination, documentation and iterative human–AI feedback. This is documented in:
+
+```text
+architecture/ARCHITECTURAL_GENESIS_AND_GENERALIZATION_METHOD.md
+```
+
+The method favors:
+
+\[
+ManySpecificProblems
+\rightarrow
+CommonPrimitives
+\rightarrow
+ComposableCore
+\rightarrow
+DomainSpecificComposition
+\]
+
+while preserving:
+
+\[
+Generalization \neq ForcedUniformity
+\]
+
+The development method is project history and design discipline, not evidence that the resulting architecture is correct or superior.
+
 # Book Structure
 
 ## Part I — Distributed Intelligence and Coherence

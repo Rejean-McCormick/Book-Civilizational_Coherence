@@ -84,3 +84,14 @@ Validated after starting from `Civilisational_Coherence(4).zip`:
 - Kintsugi/Kompendio source synthesis added without claiming implementation completeness;
 - search/social superiority remains hypothesis/ambition;
 - strong-hub replication and recursive centrality propagated into Part V.
+
+## Post-V2 relational centrality/generalization update — 2026-08-17
+
+Validation scope added after the V2 pack:
+
+- relational centrality separated from sovereign authority;
+- center-of-communion metaphor bounded against domination and compulsory belief;
+- Christ analogy explicitly classified as interpretive only;
+- architectural generalization method documented as author-reported project method;
+- human–AI development loop explicitly separated from empirical validation;
+- cross-domain reuse guardrails propagated into claims, risks, traceability and relevant chapter controls.

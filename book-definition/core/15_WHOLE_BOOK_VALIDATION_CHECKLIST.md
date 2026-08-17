@@ -114,3 +114,16 @@
 - [ ] Polycentricity is compatible with multiple strong centers.
 - [ ] Search/social superiority claims remain hypotheses unless benchmarked.
 - [ ] Symbolic centrality is not converted into institutional sovereignty.
+
+## Relational centrality and symbolic analogy
+
+- [ ] Relational centrality is distinguished from sovereign authority.
+- [ ] Any use of "communion" is clearly relational, not a requirement of religious belief.
+- [ ] Any Christ analogy is explicitly marked interpretive and is never used as evidence, sacred legitimation or founder identification.
+- [ ] The general principle remains intelligible with another symbol or no symbol.
+
+## Cross-domain generalization
+
+- [ ] Shared primitives do not erase domain-specific safety, legal, epistemic or authority constraints.
+- [ ] Human–AI project-development history is not presented as independent validation.
+- [ ] Cross-domain reuse claims expose failure criteria and counterexamples.

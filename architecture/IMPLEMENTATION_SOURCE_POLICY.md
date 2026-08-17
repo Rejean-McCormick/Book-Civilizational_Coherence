@@ -92,3 +92,9 @@ LONG-RANGE DESIGN AMBITION / EMPIRICAL HYPOTHESIS
 ```
 
 A benchmark should specify the user task, context retained, relevance metric, time-to-capability, continuity into action and baseline system.
+
+## Author-reported project method
+
+Documents describing how the architecture was conceived — including human–AI iteration, corpus recombination and cross-domain generalization — are valid sources for **project history and design intent only**.
+
+They do not verify implementation and do not count as independent evidence for theoretical or empirical claims.

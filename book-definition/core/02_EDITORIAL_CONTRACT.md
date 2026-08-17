@@ -230,3 +230,26 @@ Do not use "centralization" as a generic synonym for domination. Distinguish fun
 The kOA laboratory currently targets a strong articulation hub. Replication, local operation and federation are counterpowers and scaling mechanisms around that hub, not evidence that the desired normal form is centerless.
 
 Comparative superiority over search engines, social networks or collaboration suites must remain a **design ambition or empirical hypothesis** unless benchmark evidence exists.
+
+## 18. Cross-domain generalization discipline
+
+The kOA laboratory deliberately extracts common primitives across domains. In the book:
+
+- derive the general function before naming the kOA implementation;
+- preserve domain-specific safety, authority and legal constraints;
+- do not treat reuse as evidence that domains are equivalent;
+- distinguish author-reported project method from empirical support.
+
+\[
+SharedCore \neq IdenticalDomainLogic
+\]
+
+## 19. Symbolic centrality discipline
+
+A central symbol may be analyzed as a relational interface that makes a whole legible and supports common orientation.
+
+\[
+CenterOfCommunion \neq CenterOfDomination
+\]
+
+Religious analogies, including Christ as a symbol associated with sharing, service and communion, must be marked **INTERPRETIVE ANALOGY**. They are not theological claims, founder identities, proof of legitimacy or empirical support. The architecture must remain understandable and usable under different symbols or no symbol.

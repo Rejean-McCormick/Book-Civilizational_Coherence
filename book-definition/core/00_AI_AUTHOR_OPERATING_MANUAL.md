@@ -263,3 +263,20 @@ Before finalizing a chapter, inspect relevant rows of `core/21_RISK_REGISTER.md`
 ### Centrality guardrail
 
 Never write "decentralized = coherent" or "centralized = incoherent." Ask what is centralized. The current project intentionally centralizes discovery, access, navigation and composition through a hub while attempting to keep truth, expertise, local execution, derivative institutions and continuation contestable or independently reproducible.
+
+### Generalization-method guardrail
+
+The project intentionally seeks common primitives across domains. Do not infer that domains are identical because they reuse a shared primitive.
+
+Before presenting a cross-domain abstraction, ask:
+
+1. What mechanism is genuinely shared?
+2. Which domain constraints remain irreducible?
+3. What would falsify the generalization?
+4. Is this documented architecture, implemented behavior, or author-reported design method?
+
+Use `architecture/ARCHITECTURAL_GENESIS_AND_GENERALIZATION_METHOD.md` when describing how the architecture was developed. Treat the human–AI feedback process as project history, not independent evidence for the theory or implementation.
+
+### Relational-symbolic guardrail
+
+When using religious or historical analogies for centrality, explicitly label them as analogies. Christ may illustrate a symbolic center associated with sharing, communion, service and common belonging, but must never be used as theological proof, sacred legitimation, founder identification or empirical evidence.

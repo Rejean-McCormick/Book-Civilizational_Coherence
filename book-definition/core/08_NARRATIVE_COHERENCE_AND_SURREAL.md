@@ -315,6 +315,32 @@ Stories can provide names for:
 
 Do not formalize recognizability as a fifth legal counterpower. It is an enabling cultural layer.
 
+## Symbolic centrality as a relational center
+
+A shared symbol can make a distributed architecture feel like a whole. Its healthiest role is not necessarily to command the parts, but to provide a common reference around which the parts can recognize and relate to one another.
+
+\[
+CenterOfCommunion \neq CenterOfDomination
+\]
+
+Here *communion* means participation in something shared while participants remain distinguishable. It does not require a religious interpretation.
+
+The project may use Christ as a **bounded symbolic analogy** for themes such as sharing, service, communion and common belonging. This is an interpretive comparison only. It must never be written as:
+
+- theological proof;
+- sacred validation of kOA;
+- identification of King Klown or the founder with Christ;
+- mandatory symbolism;
+- evidence that a community will actually cooperate.
+
+The invariant is:
+
+\[
+SharedSymbol \neq CompulsoryBelief
+\]
+
+A symbol is legitimate only while people remain free to reinterpret, replace, ignore or remove it without losing access to the underlying architecture.
+
 ## Narrative forkability
 
 If the architecture requires King Klown specifically, it violates its principles.

@@ -27,6 +27,9 @@ These distinctions are the conceptual constitution of the current book.
 - Federation ≠ Flatness
 - Local Sovereignty ≠ Absence Of Local Center
 - Symbolic Centrality ≠ Institutional Sovereignty
+- Relational Centrality ≠ Sovereign Centrality
+- Center Of Communion ≠ Center Of Domination
+- Shared Symbol ≠ Compulsory Belief
 - One Coherent User Surface ≠ One Monolithic Codebase
 - Integration ≠ Merger Of Ownership
 - Mimic ≠ Annex
@@ -41,6 +44,14 @@ These distinctions are the conceptual constitution of the current book.
 - Capability Exists ≠ Capability Is Mobilized
 - Missing Capacity ≠ Conversion Loss
 - Maximum Mobilization ≠ Maximum Coherence
+
+## Architectural generalization
+
+- Shared Core ≠ Identical Domain Logic
+- Generalization ≠ Forced Uniformity
+- Reuse ≠ Erasure Of Domain Constraints
+- Similar Surface Need ≠ Same Underlying Mechanism
+- Internal Architectural Coherence ≠ External Validation
 
 ## Interfaces and systems
 

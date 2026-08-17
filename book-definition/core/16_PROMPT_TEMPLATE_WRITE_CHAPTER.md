@@ -12,6 +12,7 @@ Load:
 - `core/20_CLAIM_LEDGER.md`
 - `core/21_RISK_REGISTER.md`
 - `core/22_CENTRALITY_AND_ARTICULATION_HUB.md`
+- `../architecture/ARCHITECTURAL_GENESIS_AND_GENERALIZATION_METHOD.md` when explaining cross-domain architectural reuse or project genesis
 - `core/00_AI_AUTHOR_OPERATING_MANUAL.md`
 - `core/01_BOOK_CHARTER.md`
 - `core/02_EDITORIAL_CONTRACT.md`

@@ -72,3 +72,17 @@ OneCoherentSurface \neq OneMonolithicCodebase
 Theory derives a requirement first. A component may then be introduced as one concrete architecture attempting to satisfy that requirement.
 
 If a component is removed from a chapter, the theoretical argument should remain substantially valid.
+
+## Cross-domain design method
+
+`ARCHITECTURAL_GENESIS_AND_GENERALIZATION_METHOD.md` documents how the project extracts shared primitives across domains, with two guardrails:
+
+\[
+SharedCore \neq IdenticalDomainLogic
+\]
+
+\[
+Generalization \neq ForcedUniformity
+\]
+
+This method is **author-reported project history / design discipline**, not implementation evidence.

@@ -153,6 +153,48 @@ StrongHub + DistributedCapability + LocalExecution + ContestableAuthority + Repl
 
 Replication means a complete coherent hub can be reproduced and become another center. Federation may then connect strong centers to strong centers. Polycentricity therefore does not imply weak or centerless institutions.
 
+### Relational centrality
+
+A center can create value by increasing the capacity of otherwise distributed parts to find, understand, exchange with and compose with one another. This is distinct from increasing the center's command over those parts.
+
+\[
+CenterOfCommunion \neq CenterOfDomination
+\]
+
+\[
+RelationalCentrality \neq SovereignCentrality
+\]
+
+**Status:** canonical distinction / conceptual frame. The word *communion* is used in its relational sense: participation in something shared while persons or institutions remain distinguishable. It does not imply religious adherence.
+
+A shared symbol can support this relational centrality by making a whole perceptible and giving heterogeneous participants a common reference point. Symbolic centrality does not confer institutional sovereignty or epistemic authority.
+
+## 5B. Architectural generalization method
+
+**Status:** author-reported project method / accepted design discipline; not evidence that the architecture is correct.
+
+The kOA architectural family was developed through repeated comparison of many domain problems, extraction of recurring functional primitives, recombination, documentation and iterative human–AI feedback. The intended design discipline is:
+
+\[
+ManySpecificProblems
+\rightarrow
+CommonPrimitiveDiscovery
+\rightarrow
+ComposableCore
+\rightarrow
+DomainSpecificComposition
+\]
+
+**Literal translation:** compare many specific problems, extract genuinely shared mechanisms, put them in a reusable core, then preserve the domain-specific differences at composition time.
+
+**Meaning:** do not duplicate the same coordination function merely because it appears in medicine, education, crisis response, governance or another domain under different vocabulary. Conversely, do not erase irreducible domain constraints merely to obtain a universal abstraction.
+
+\[
+Generalization \neq ForcedUniformity
+\]
+
+The detailed project-method record is `architecture/ARCHITECTURAL_GENESIS_AND_GENERALIZATION_METHOD.md`.
+
 ## 6. kOA status
 
 **Status:** concrete architectural laboratory / implementation family.

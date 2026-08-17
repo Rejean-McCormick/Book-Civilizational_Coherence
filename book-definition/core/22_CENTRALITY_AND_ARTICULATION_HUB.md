@@ -166,7 +166,7 @@ Hub_A \leftrightarrow Hub_B \leftrightarrow Hub_C
 
 This is **recursive centrality**. Polycentricity can consist of multiple strong centers rather than a flat architecture with no center.
 
-## 9. Symbolic and legibility centrality
+## 9. Symbolic, legibility and relational centrality
 
 Complex systems can also need a perceptual center: a public identity, symbol, map, narrative frame or educational interface that makes the distributed whole graspable.
 
@@ -180,7 +180,54 @@ But:
 SymbolicCentrality \neq Sovereignty
 \]
 
-Comparisons to religious or historical symbols are symbolic interpretations, not theological claims or evidence of system legitimacy.
+A further distinction is **relational centrality**. A center can be important because it increases the capacity of the parts to relate to one another, not because it commands those parts.
+
+\[
+CenterOfCommunion \neq CenterOfDomination
+\]
+
+**Literal translation:** a center organized around participation in something shared is not the same thing as a center organized around control.
+
+**Meaning:** the useful center may provide a common place, language, symbol, interface or orientation around which heterogeneous actors cooperate while retaining distinct identities, expertise and legitimate authorities.
+
+**Epistemic status:** conceptual distinction / design frame, not a measured law.
+
+A possible relational chain is:
+
+\[
+SharedReference
+\rightarrow
+MutualDiscoverability
+\rightarrow
+Interaction
+\rightarrow
+Composition
+\]
+
+**Literal translation:** a shared reference can make participants easier to find, create more interaction and make useful composition easier.
+
+**Meaning:** this is one mechanism by which symbolic or technical centrality could create value.
+
+**Epistemic status:** design/empirical hypothesis; it requires evidence in actual communities and systems.
+
+### Christ as a bounded symbolic analogy
+
+Christianity provides a historically powerful example of a central figure interpreted by many communities through themes including sharing, service, communion and common belonging. Within this project, **Christ may be used only as a symbolic analogy for relational centrality**: a center that can signify connection among participants rather than merely command over them.
+
+This analogy is explicitly bounded:
+
+- it is not a theological claim;
+- it is not a complete interpretation of Christianity;
+- it does not identify the founder, King Klown, kOA or any software system with Christ;
+- it does not grant sacred legitimacy to the architecture;
+- it is not evidence that the architecture will produce communion or cooperation;
+- no religious adherence may be required to understand, use, criticize, fork or retheme the system.
+
+\[
+SharedSymbol \neq CompulsoryBelief
+\]
+
+The general principle survives removal of the Christian analogy. Other cultures, institutions or communities may use other symbols, multiple symbols, or no symbolic figure at all.
 
 ## 10. Anti-capture implication
 
