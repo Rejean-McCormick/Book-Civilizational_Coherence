@@ -529,6 +529,24 @@ The project's specific narrative method is referred to as **The Surreal**.
 
 King Klown is one narrative implementation and is not a mandatory technical or institutional component.
 
+## Governed fiction corpus
+
+The project fiction/narrative corpus is governed in:
+
+```text
+narrative/fiction/FICTION_REGISTRY.md
+narrative/fiction/CIVCOHE_ALIGNMENT.md
+narrative/fiction/SOURCE_MANIFEST.md
+```
+
+F0001–F0017 are embedded as actual project source files. **Colin Row (F0018)** is linked to its own supplied production repository and is intentionally not duplicated inside CivCohe.
+
+The corpus is a portfolio of narrative manifestations, design-history sources and stress-tests. It does not create a second authority hierarchy for the nonfiction book. Older fictional module names or speculative implementations remain in their source context and do not establish current implementation status.
+
+\[
+NarrativeSource \neq BookAuthority \neq EmpiricalEvidence
+\]
+
 ---
 
 # Four Project Layers

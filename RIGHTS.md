@@ -32,3 +32,14 @@ architecture/RIGHTS_AND_REPLICATION_MATRIX.md
 ## External sources
 
 Links, citations and references to external repositories, papers, datasets, documentation, Wikis or websites remain subject to their own terms and rights.
+
+
+## Narrative and fiction sources
+
+The files under `narrative/fiction/sources/` are project-supplied source material preserved for provenance and governed use. Their presence in CivCohe does not create a blanket publication, adaptation or redistribution license.
+
+*Colin Row* is intentionally referenced rather than copied: its production repository remains separate, and CivCohe stores only a fingerprint/integration record.
+
+\[
+SourcePossession \neq RightsGrant
+\]

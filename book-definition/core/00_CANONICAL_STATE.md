@@ -423,6 +423,8 @@ NarrativeCoherence \neq StructuralCoherence
 
 The narrative must be forkable/rethemeable. King Klown is not a mandatory technical or institutional component.
 
+The governed project narrative portfolio is indexed in `narrative/fiction/FICTION_REGISTRY.md` and aligned in `narrative/fiction/CIVCOHE_ALIGNMENT.md`. These works are contextual/design-history sources and cannot override this canonical state. *Colin Row* is linked as F0018 from its separate production repo rather than duplicated here.
+
 ## 19. Founder stance
 
 The founder is not evidence and must not become a permanent dependency.

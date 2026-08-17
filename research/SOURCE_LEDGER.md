@@ -25,6 +25,7 @@ Source \leftrightarrow Claim \leftrightarrow Chapter \leftrightarrow Requirement
 - `C####` — empirical case source set
 - `H####` — historical primary/secondary source
 - `D####` — dataset
+- `F####` — project fiction/narrative source (contextual, not empirical evidence)
 
 Do not reuse the `C01–C40` namespace from the Book Claim Ledger; source IDs have four digits.
 
@@ -72,3 +73,12 @@ Every **load-bearing empirical or historical claim** should have a source approp
 Architecture documentation can support statements about intended architecture.
 
 It cannot by itself support claims of social effectiveness.
+
+
+## Fiction/narrative source boundary
+
+`F####` sources are governed in `narrative/fiction/FICTION_REGISTRY.md`. F0001–F0017 are physically stored under `narrative/fiction/sources/`; F0018 (*Colin Row*) is governed in a separate supplied repository and linked through `narrative/fiction/external/F0018_colin_row.md`.
+
+They may support claims about the content, structure, symbols, fictional institutions or internally modeled consequences of a work. They do **not** satisfy the evidence burden for external empirical, historical, legal or current-implementation claims.
+
+The provenance record is `narrative/fiction/SOURCE_MANIFEST.md`; the conceptual crosswalk is `narrative/fiction/CIVCOHE_ALIGNMENT.md`.

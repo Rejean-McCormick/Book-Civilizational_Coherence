@@ -62,6 +62,7 @@ V2 fixes that.
 - Explicitly fixed `DistributedIntelligence ⊂ DistributedPotential`.
 - Expanded the project map to four layers: theory, architecture, narrative, practice/mastery.
 - Preserved the narrative/Surreal erratum while preventing narrative from becoming evidence.
+- Governed the actual fiction portfolio through `narrative/fiction/`, including an external non-duplicated link to the Colin Row v3 repo.
 - Recorded the original public-good non-monetization constraint as project-specific.
 - Classified the newcomer-before-expert latent-competence mechanism as experimental.
 - Clarified synthetic simulations, later authentic correction/control, and explicit change-of-mind.

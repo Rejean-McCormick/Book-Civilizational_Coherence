@@ -361,6 +361,24 @@ Communities can use:
 
 The function can remain while the symbol changes.
 
+## Governed narrative portfolio
+
+The project now maintains a governed portfolio of fiction and narrative works in `narrative/fiction/`. The portfolio includes long-form fiction, world-building, stage works, narrative albums and hybrid narrative-theoretical texts.
+
+These works are **multiple manifestations**, not one required fictional canon. They may preserve different eras of the project's terminology or architecture. Do not harmonize them by rewriting their internal worlds. Harmonize their use by declaring the function they serve and then returning to current CivCohe architecture and evidence.
+
+The work-level registry is `narrative/fiction/FICTION_REGISTRY.md`; the conceptual crosswalk is `narrative/fiction/CIVCOHE_ALIGNMENT.md`. *Colin Row* is F0018 and remains in its separate production repo to avoid duplicate canon.
+
+\[
+PluralNarratives + SharedAnalyticalInvariants
+\]
+
+not:
+
+\[
+OneNarrativeCanon \rightarrow ArchitecturalAuthority
+\]
+
 ## Fiction and epistemic pluralism
 
 Fiction must remain a declared context.

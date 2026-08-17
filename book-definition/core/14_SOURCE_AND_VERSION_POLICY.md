@@ -8,16 +8,25 @@
 
 Detailed chapter files preserve the master outline as primary internal specification.
 
-## Narrative sources behind the erratum
+## Governed narrative sources
 
-Relevant project materials include:
-- *Le Surreal : Innover par la Fiction pour Transformer le Réel*;
-- *La Machine à rires — Description complète de l’album*;
-- *Hacking Reality*;
-- *From King of Fools to kOA*;
-- King Klown narrative/novel materials reviewed during design.
+The project fiction/narrative corpus is governed as a separate contextual source layer:
 
-These support the project's internal interpretation of narrative functions. They are not empirical evidence that the functions succeed.
+- `narrative/fiction/FICTION_REGISTRY.md` — work-level identity, form and source state;
+- `narrative/fiction/CIVCOHE_ALIGNMENT.md` — mapping to current CivCohe concepts and terminology boundaries;
+- `narrative/fiction/SOURCE_MANIFEST.md` — hashes and provenance;
+- `narrative/fiction/sources/` — embedded real source files for F0001–F0017;
+- `narrative/fiction/external/F0018_colin_row.md` — external-repository record for *Colin Row*.
+
+The corpus includes novels/manuscripts, concept albums, stage works, world-building dossiers and hybrid narrative/theoretical works. It supports interpretation of narrative functions, design genealogy, cultural memory and fictional stress-testing. It is not empirical evidence that the depicted mechanisms work.
+
+*Colin Row* is deliberately not copied into this repository. Its supplied v3 production repo remains the authority for Colin Row-specific canon and text; CivCohe stores only the F0018 integration record and crosswalk.
+
+When a narrative source conflicts with the current CivCohe book specification, preserve the narrative source as written and use the current book authority hierarchy for the nonfiction argument.
+
+\[
+NarrativeSource \neq CurrentArchitectureEvidence
+\]
 
 ## Technical source policy
 
@@ -79,3 +88,16 @@ When a new project decision is made:
 4. update `19_TRACEABILITY_MATRIX.md` if it changes theory→implementation logic;
 5. update the relevant chapter brief;
 6. then patch detailed specs if useful.
+
+
+## Fiction and hybrid narrative source policy
+
+A project-supplied narrative source can establish what that source depicts, proposes, dramatizes or imagines. It cannot by itself establish external-world truth.
+
+\[
+Narrative \neq Evidence
+\]
+
+For close reading or quotation, use the exact file/version recorded in `narrative/fiction/SOURCE_MANIFEST.md`. For F0018 *Colin Row*, use the external repo and its own canon hierarchy rather than creating a local duplicate. If multiple versions exist, do not silently merge them.
+
+Rights are independent of provenance. A stored or linked file does not automatically establish publication, reproduction, adaptation or third-party permissions.
