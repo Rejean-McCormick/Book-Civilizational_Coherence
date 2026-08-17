@@ -196,10 +196,12 @@ Write accordingly.
 Founder is never evidence.
 
 The architecture should remain conceptually valid if:
-- founder leaves;
+- people outside the founding group reproduce the model without continuing founder permission;
 - public instance diverges;
 - another institution builds better implementation;
 - King Klown disappears from institutional presentations.
+
+This does not require a creator-owned original channel to become founderless.
 
 ## 17. Outcome discipline
 

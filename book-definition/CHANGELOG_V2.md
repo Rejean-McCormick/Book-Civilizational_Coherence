@@ -30,3 +30,11 @@
 - It does not rewrite the 25 chapters into manuscript prose.
 - It does not verify current software implementation.
 - It does not perform the external literature research needed for final publication.
+
+## 2026-08-16 — Founder non-dependence / independent reproduction clarification
+
+- Replaced the universal founder-removal framing with **founder non-dependence** and **independent reproducibility**.
+- Clarified that a creator-owned channel does not have to become founderless.
+- UCKK may remain its creator's educational/publication channel while its institutional pattern is intentionally replicable, rethemeable and usable by independent derivative institutions.
+- Updated Chapter 23 proof obligation and lower-authority detailed research stores to prevent reintroduction of the superseded framing.
+- Added live ecosystem source, implementation-status, open-good, rights/replication and source-ledger infrastructure at repository level.

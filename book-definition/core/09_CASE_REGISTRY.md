@@ -175,16 +175,19 @@ Useful for:
 
 Best chapters: 20–21.
 
-## Founder disappearance
+## Independent reproduction / founder non-dependence
 
-Test whether ecosystem can:
-- install;
+Test whether people outside the founding group can:
+- install or reproduce;
 - repair;
 - update;
-- govern;
+- govern their own instance/institution;
 - explain;
-- fork;
-without founder knowledge.
+- teach;
+- fork or retheme;
+without unique founder knowledge or continuing founder permission.
+
+A creator-owned original channel may continue to depend on the creator by choice; the test concerns whether capability and derivative institutions can exist independently.
 
 Best chapters: 8, 23, 25.
 

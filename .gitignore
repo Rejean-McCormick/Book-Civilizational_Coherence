@@ -1,0 +1,38 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python/tooling caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Temporary working artifacts
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+~$*
+
+# Local secrets/environment
+.env
+.env.*
+!.env.example
+
+# Local extraction/scratch folders
+_tmp/
+tmp/
+scratch/
+
+# Do not ignore dist/releases: frozen releases are intentional repository artifacts.

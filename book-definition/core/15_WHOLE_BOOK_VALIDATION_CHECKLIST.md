@@ -82,7 +82,7 @@
 - [ ] Failure can create future capacity.
 - [ ] Success can consume future capacity.
 - [ ] Documentation ≠ mastery.
-- [ ] Founder exit practical.
+- [ ] Independent reproduction beyond the founding group is practical; creator-owned channels are not incorrectly required to become founderless.
 
 ## Narrative
 - [ ] Narrative = manifestation/orientation, not proof.

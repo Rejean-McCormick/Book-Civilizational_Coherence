@@ -86,7 +86,7 @@ Surreal/King Klown can be substantial where it illuminates:
 - legibility;
 - attention;
 - cultural contestability;
-- founder exit.
+- founder non-dependence and independent reproduction.
 
 Long artistic exegesis belongs in a companion.
 

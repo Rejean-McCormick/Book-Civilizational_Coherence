@@ -32,7 +32,7 @@
 | C28 | Selective permeability can contain failures while preserving exchange | DESIGN/EMPIRICAL HYPOTHESIS | 20 | blast-radius/silo tests |
 | C29 | Canonical operation can survive AI/network absence where nonintrinsic | ARCHITECTURAL DESIGN CLAIM | 21 | AI=0 / internet=0 |
 | C30 | Successful action is not necessarily cumulative gain | CANONICAL THEORY | 22 | maintenance/burnout cases |
-| C31 | Human mastery is a distinct durable capability | CANONICAL THEORY | 23 | succession/founder-exit |
+| C31 | Human mastery is a distinct durable capability | CANONICAL THEORY | 23 | mastery-reproduction / independent-reproduction tests |
 | C32 | Coherence should be inferred from profiles/indicators, not assumed one score | MEASUREMENT PRINCIPLE | 24 | construct validation |
 | C33 | Adoption alone is insufficient evidence of coherence gain | MEASUREMENT PRINCIPLE | 24 | full outcome chain |
 | C34 | Theory must permit modular failure and revision | EPISTEMIC REQUIREMENT | 25 | explicit rejection criteria |
@@ -40,5 +40,5 @@
 | C36 | Narrative can encode failure modes and support cultural contestability | DESIGN/EMPIRICAL HYPOTHESIS | 8,9,14,23 | recall/recognition/critique |
 | C37 | Narrative coherence does not prove structural coherence | CANONICAL DISTINCTION | 2,8,23 | invariant |
 | C38 | The Surreal can function as adversarial simulation | PROJECT-SPECIFIC DESIGN HYPOTHESIS | 8,14,23 | design issues discovered |
-| C39 | Founder decentering is necessary for distributed mastery | DESIGN/NORMATIVE PRINCIPLE | 8,23,25 | founder-exit tests |
+| C39 | Founder decentering and non-dependence support distributed mastery | DESIGN/NORMATIVE PRINCIPLE | 8,23,25 | independent-reproduction / retheming tests |
 | C40 | kOA is one implementation attempt and may be inferior to alternatives | CANONICAL EPISTEMIC STANCE | all | removal/comparison test |

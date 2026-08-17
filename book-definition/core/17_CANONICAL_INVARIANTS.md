@@ -164,6 +164,8 @@ These distinctions are the conceptual constitution of the current book.
 - Narrative ≠ Evidence
 - Narrative Salience ≠ Importance
 - Founder ≠ System
+- Independent reproducibility ≠ Founder removal
+- Creator-owned channel ≠ Exclusive founder dependency
 - Symbol ≠ Constitution
 - Shared Core + Plural Narratives is preferred to One System + One Mandatory Myth
 

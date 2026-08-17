@@ -220,8 +220,8 @@ Design stance in which AI can assist analysis, construction or interpretation wi
 ## Distributed mastery
 Human capability to understand, maintain, repair, teach and evolve the system across more than a small founding group.
 
-## Founder exit
-Practical test of whether the system can survive and evolve without continued founder control or unique founder knowledge.
+## Founder non-dependence and independent reproducibility
+Practical property whereby people outside the founding group can understand, reproduce, operate, maintain, teach, fork, adapt or replace the relevant system/model without unique founder knowledge or continuing founder permission. It does not require a creator-owned channel to remove its founder or to persist after the creator stops operating it. For UCKK specifically, the original UCKK may remain its creator's channel while derivative institutions are explicitly encouraged to replicate and retheme the model independently.
 
 ## Legible coherence
 Capacity of participants to perceive enough of the relations among components, purposes, constraints and pathways to orient themselves within the whole.

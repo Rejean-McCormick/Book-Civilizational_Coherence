@@ -350,7 +350,7 @@ The narrative must be forkable/rethemeable. King Klown is not a mandatory techni
 
 The founder is not evidence and must not become a permanent dependency.
 
-Founder-exit test: can independent people understand, install, operate, maintain, repair, govern, teach, fork and replace the system without unique founder knowledge or permission?
+Independent-reproduction test: can people outside the founding group understand, reproduce, install, operate, maintain, repair, govern, teach, fork, adapt or replace the relevant system/model without unique founder knowledge or continuing founder permission? This does not require a creator-owned channel to become founderless or to survive its creator; it tests whether capability and institutional form can exist independently of exclusive founder dependence.
 
 The narrative should equip future participants to criticize the founder if the founder violates the stated invariants.
 

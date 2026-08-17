@@ -18,7 +18,7 @@
 | Insufficient permeability | coordination | silos | selective exchange contracts | 20 | duplicated work/high latency |
 | AI silently becomes canonical authority | epistemic/technical | opacity/dependency | deterministic core/labels/adapters | 21 | canonical changes require model |
 | Documentation ≠ mastery | institutional | system dies despite files | training/UCKK/maintainer diversity | 23 | original team remains unique |
-| Founder dependency | institutional | forkability false | founder-exit drills | 8,23,25 | operations stop without founder |
+| Exclusive founder dependency | institutional | forkability/reproducibility false | independent-reproduction drills | 8,23,25 | outsiders cannot reproduce/operate/teach without founder permission or unique knowledge |
 | Founder cult / narrative capture | narrative/power | story shields system/leader | anti-cult narrative/retheming/evidence | 8,14,23 | criticism becomes disloyalty |
 | Narrative outruns evidence | epistemic | story creates certainty | narrative≠evidence/return to reality | 8,23,25 | story used as proof |
 | Narrative too detached to transfer | adoption | story fails to teach | links to docs/learning paths | 6,23 | fandom without mastery |

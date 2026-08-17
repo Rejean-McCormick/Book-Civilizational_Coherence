@@ -50,7 +50,7 @@
 - deterministic, AI-optional canonical runtime as current intended direction;
 - replication before federation;
 - selective permeability;
-- founder exit and distributed mastery;
+- founder non-dependence, independent reproduction and distributed mastery;
 - narrative/Surreal as manifestation, orientation, memory, attention, adversarial simulation, precommitment and founder decentering;
 - `NarrativeCoherence ≠ StructuralCoherence`;
 - four project layers: theory, architecture, narrative, practice/mastery;

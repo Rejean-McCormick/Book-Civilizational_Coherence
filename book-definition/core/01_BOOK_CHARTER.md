@@ -127,7 +127,7 @@ The theory must apply to itself.
 
 A book about correction must state what would make its claims weaker.
 An architecture about non-domination must permit its own replacement.
-A system about distributed mastery must not require the founder.
+A system about distributed mastery must allow independent reproduction beyond the founder or founding group; this does not require a creator-owned original channel to remove its creator.
 A narrative about anti-cult principles must be detachable from its hero.
 
 ## Three distinct layers

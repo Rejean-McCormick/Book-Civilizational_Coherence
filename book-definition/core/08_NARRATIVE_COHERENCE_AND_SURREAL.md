@@ -364,7 +364,7 @@ The grand plan must eventually answer:
 - Did the patient improve?
 - Did the institution become easier to contest?
 - Did the knowledge survive migration?
-- Did the system work without founder?
+- Could independent people reproduce and operate the relevant capability without exclusive founder dependence?
 
 \[
 BigPicture
@@ -406,7 +406,7 @@ Fiction as declared epistemic context.
 Narrative salience as attention mechanism.
 
 ### Chapter 23
-Narrative transmission, plural symbols and founder exit.
+Narrative transmission, plural symbols, founder non-dependence and independent reproduction.
 
 ### Conclusion
 Theory, architecture and narrative all remain replaceable/corrigible.

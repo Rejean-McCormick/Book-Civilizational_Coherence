@@ -42,6 +42,9 @@
 | Optional external AI adapters | ACCEPTED DESIGN PRINCIPLE | AI output not canonical by default |
 | Orgo decision→execution | CURRENT INTENDED ARCHITECTURE | External execution remains possible |
 | UCKK mastery reproduction | CURRENT INTENDED ARCHITECTURE | Not universal governance |
+| UCKK original as creator-owned channel | ACCEPTED PROJECT CONFIGURATION | Does not imply derivative dependence |
+| Independent UCKK/Univers-City derivatives | ACCEPTED DESIGN PRINCIPLE | Replication/retheming encouraged; derivatives may be sovereign |
+| Mandatory founder removal for durability | REJECTED DIRECTION | Use founder non-dependence / independent reproducibility instead |
 | King Klown mandatory in core/UCKK | REJECTED DIRECTION | Detachable/rethemeable |
 | Open good broader than open source | ACCEPTED DESIGN PRINCIPLE | Functional portability |
 | Original public-good reference platform non-monetized | PROJECT-SPECIFIC NORMATIVE/INSTITUTIONAL CONSTRAINT | Do not universalize |
