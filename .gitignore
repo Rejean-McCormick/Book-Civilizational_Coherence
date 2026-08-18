@@ -36,3 +36,4 @@ tmp/
 scratch/
 
 # Do not ignore dist/releases: frozen releases are intentional repository artifacts.
+GitSink.bat
